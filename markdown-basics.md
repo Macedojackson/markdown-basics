@@ -1,10 +1,10 @@
-Os básicos de Markdown
+<h1>Os básicos de Markdown
 O markdown permite você escrever um formato de texto fácil de ler e fácil de escrever, que converte para HTML válido para visualização no GitHub.
 Escrita Básica
 Parágrafos
 Parágrafos em Markdown são só uma ou mais linhas de texto consecutivo seguido por uma ou mais linha em branco.
 Em 2 de julho, uma nave de alienígena entrou na órbita da terra e implantaram várias dezenas de molho.
-Em 3 de julho, os cavaleiros pretos, um batalhão do corpo da marinha F/A-18 vespões, participaram de um assalto em um destruidor perto da cidade de Los Angeles.
+Em 3 de julho, os cavaleiros negros, um batalhão do corpo da marinha F/A-18 vespões, participaram de um assalto em um destruidor perto da cidade de Los Angeles.
 Cabeçalhos
 Você pode criar um título adicionando um ou mais símbolos # antes do cabeçalho do seu texto. O número de # que você usar vai determinar o tamanho do título.
 # O maior título (an <hl> tag)
@@ -19,7 +19,7 @@ Modelando o texto
 Você pode fazer o texto em negrito ou itálico.
 *Este texto vai ser em itálico*
 **Este texto vai ser em negrito**
-Ambos, negrito e itálico podem usar um ou outro, uma * ou um _ ao redor do texto para estilo. Isso permite você combinar ambos, negrito e itálico se necessário.
+Ambos, negrito e itálico podem usar um ou outro, um * ou um _ ao redor do texto para estilo. Isso permite você combinar ambos, negrito e itálico se necessário.
 **Todo mundo _deve_ assistir a reunião às 5 horas hoje.**
 Listas
 Listas não ordenada
@@ -51,7 +51,7 @@ Formatos em linha
 Use acentos graves individuais (`) para formatar texto em um formato mono espaço especial. Tudo dentro dos acentos graves aparecem como está, sem nenhuma outra formatação especial.
 Múltiplas linhas
 Você pode usar acentos graves triplo(` ` `) para formatar como seu próprio bloco distinto.
-Confira este programa arrumado que eu escrevi:
+Confira este programa organizado que eu escrevi:
 ` ` `
 X= 0 
 x= 2 + 2
