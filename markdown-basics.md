@@ -3,7 +3,7 @@ O markdown permite você escrever um formato de texto fácil de ler e fácil de 
 1. Item 1-##Escrita Básica
 ###**Parágrafos**
 Parágrafos em Markdown são só uma ou mais linhas de texto consecutivo seguido por uma ou mais linha em branco.
-Em 2 de julho, uma nave de alienígena entrou na órbita da terra e implantaram várias dezenas de molho.
+Em 2 de julho, uma nave de alienígena entrou na órbita da terra e implantaram várias dezenas em forma de pires nave espacial "destruidor", a cada 15 milhas (24 quilômetros) de largura.
 Em 3 de julho, os cavaleiros negros, um batalhão do corpo da marinha F/A-18 vespões, participaram de um assalto em um destruidor perto da cidade de Los Angeles.
 ###**Cabeçalhos**
 Você pode criar um título adicionando um ou mais símbolos # antes do cabeçalho do seu texto. O número de # que você usar vai determinar o tamanho do título.
