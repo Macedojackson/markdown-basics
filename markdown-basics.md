@@ -10,11 +10,11 @@ Em 3 de julho, os cavaleiros negros, um batalhão do corpo da marinha F/A-18 ves
 ###**Cabeçalhos**
 Você pode criar um título adicionando um ou mais símbolos # antes do cabeçalho do seu texto. O número de # que você usar vai determinar o tamanho do título.
 
-<code>#</code> O maior título (uma <hl> tag)
+<code>#</code> O maior título (uma hl tag)
 
-<code>##</code> O segundo maior título (uma <h2> tag)
+<code>##</code> O segundo maior título (uma h2 tag)
 
-<code>######</code> O sexto maior título (uma <h6> tag)
+<code>######</code> O sexto maior título (uma h6 tag)
 
 ###**Citações**
 Você pode indicar citações com um >.
@@ -26,13 +26,13 @@ Nas palavras de Abraão Lincoln:
 ###**Estilo de texto**
 Você pode fazer o texto em negrito ou itálico.
 
-<code>* Este texto vai ser em itálico **</code>
+<code>* Este texto vai ser em itálico *</code>
 
 <code>** Este texto vai ser em negrito **</code>
 
 Ambos, negrito e itálico podem usar um ou outro, um * ou um _ ao redor do texto para estilo. Isso permite você combinar ambos, negrito e itálico se necessário.
 
-**Todo mundo _deve_ assistir a reunião às 5 horas hoje.**
+<code>** Todo mundo <code>_ deve _</code> assistir a reunião às 5 horas hoje. **</code>
 
 ## 2.Listas
 
@@ -80,13 +80,21 @@ Você pode criar listas aninhadas recuando itens de lista com dois espaços.
 
 ###**Formatos em linha**
 Use acentos graves individuais (`) para formatar texto em um formato mono espaço especial. Tudo dentro dos acentos graves aparecem como está, sem nenhuma outra formatação especial.
+
+<code>Aqui está uma ideia: por que nós não pegamos o 'projeto superior' e transformamos ele em um '<code>** razoável </code>** projeto'</code>
+
 ###**Múltiplas linhas**
 Você pode usar acentos graves triplo(` ` `) para formatar como seu próprio bloco distinto.
 >Confira este programa organizado que eu escrevi:
+
 ` ` `
-X= 0 
+
+X= 0
+
 x= 2 + 2
+
 qual é x
+
 ` ` `
 
 ## 4.Ligações
